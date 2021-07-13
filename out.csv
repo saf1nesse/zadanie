@@ -1,0 +1,16 @@
+aid,type,callback,parameters,label
+comment_publish_action,comment,comment_publish_action,b'',Publish comment
+comment_save_action,comment,comment_save_action,b'',Save comment
+comment_unpublish_action,comment,comment_unpublish_action,b'',Unpublish comment
+node_make_sticky_action,node,node_make_sticky_action,b'',Make content sticky
+node_make_unsticky_action,node,node_make_unsticky_action,b'',Make content unsticky
+node_promote_action,node,node_promote_action,b'',Promote content to front page
+node_publish_action,node,node_publish_action,b'',Publish content
+node_save_action,node,node_save_action,b'',Save content
+node_unpromote_action,node,node_unpromote_action,b'',Remove content from front page
+node_unpublish_action,node,node_unpublish_action,b'',Unpublish content
+pathauto_node_update_action,node,pathauto_node_update_action,b'',Update node alias
+pathauto_taxonomy_term_update_action,taxonomy_term,pathauto_taxonomy_term_update_action,b'',Update taxonomy term alias
+pathauto_user_update_action,user,pathauto_user_update_action,b'',Update user alias
+system_block_ip_action,user,system_block_ip_action,b'',Ban IP address of current user
+user_block_user_action,user,user_block_user_action,b'',Block current user
